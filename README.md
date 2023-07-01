@@ -9,7 +9,7 @@ Thus, KneeMS offers a more efficient, scalable, and accessible solution for meas
 Overview of the designed wireless knee wearable sensor  and sensor placement for the human participant study. (a) The patch with a 3D printed rigid housing for the main board and a flexible resin housing for the sensor board. (b) The patch consists of two printed circuit boards (PCBs) connected using an FFC connector. The main board includes an nRF52840 microcontroller, and a microSD card, charging circuit, and connectors to the sensors board. The microUSB allows for battery charging and data transfer. The sensors board includes a 3-axis MEMS vibration sensor (IIS3DWB). (c) The wireless patch is attached to the knee with a double-sided tape and the flexible connector (FFC) allows for easy motion of the knee. A Dytran accelerometer is placed side to side with the sensor to enable a comparison between our patch and Dytran for this human study.
 
 <p align="center">
-<img src="https://github.com/mohnikbakht/Noise2Noise_SCG_Beats_Demo/blob/main/figures/figure1.png" alt="overview figure" width="600"/>
+<img src="https://github.com/mohnikbakht/KneeMS_Demo/blob/main/figures/figure1.png" alt="overview figure" width="600"/>
 </p>
 
 
@@ -18,7 +18,7 @@ Overview of the designed wireless knee wearable sensor  and sensor placement for
 (a) A comparison between the frequency response of the two sensors using a sine sweep signal. (b, c) The results of the knee loading human participant study. Specifically, (b) a comparison of the RMS amplitudes of the two sensors for all six participants (each color represents a participant, the shape represents the knee, and the size represents the loading), and (c) The ratio of RMS amplitudes to 0\% body weight RMS baseline using the two sensors for all six participants and the three loadings. Median and 1st/3rd quartiles are presented.
 
 <p align="center">
-<img src="https://github.com/mohnikbakht/Noise2Noise_SCG_Beats_Demo/blob/main/figures/figure2.png" alt="results figure" width="600"/>
+<img src="https://github.com/mohnikbakht/KneeMS_Demo/blob/main/figures/figure2.png" alt="results figure" width="600"/>
 </p>
 
  ## Conclusion

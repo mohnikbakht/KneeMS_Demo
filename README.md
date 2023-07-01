@@ -1,7 +1,9 @@
 # KneeMS: A Low-Cost Wireless Wearable System to Monitor Knee Acoustic Emissions
 
 Knee health assessment is crucial in reducing the risk of knee injuries, which can have a significant impact on individuals of all ages and activity levels. Knee acoustic emissions (KAEs) have emerged as a promising bio-signal for assessing knee health, which can be recorded using a wide-band microphone. However, the monitoring of KAE has been dependent on expensive and bulky systems, limiting the accessibility and scalability of the technology for a large population. 
-In this work, we introduce a low-cost small form-factor wireless wearable knee monitoring system (KneeMS), capable of recording KAEs. 
+
+In this work, we introduce a novel wireless knee wearable monitoring system (KneeMS) that is low-cost, sensitive, and designed to record knee acoustic emissions (KAEs). This small form factor wearable represents a promising advancement in KAEs monitoring technology as it is the first of its kind to combine low-cost, sensitivity, and wireless connectivity.
+
 The frequency response of KneeMS was evaluated through spectral density (PSD) comparison against a previously validated benchtop system. A Pearson's r = 0.99 was achieved for PSD comparison between the sine sweep response of KneeMS and the benchtop system. A human participant study was conducted to validate the system's performance in the context of KAEs, showing that KneeMS performs comparably to the benchtop system in joint loading experiments. The study achieved a Pearson's r = 0.96 for root mean square (RMS) amplitude comparison between KneeMS and benchtop system. Moreover, the study showed that KneeMS exhibits an RMS ratio behavior similar to the benchtop for different  joint loading conditions. 
 Thus, KneeMS offers a more efficient, scalable, and accessible solution for measuring KAEs. The system's portability and wireless connectivity enables continuous monitoring of KAEs, offering a solution for remote and longitunal monitoring for future studies on the use of KAEs for knee health monitoring. 
 
